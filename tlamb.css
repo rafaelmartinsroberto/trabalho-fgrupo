@@ -1,0 +1,21 @@
+@media screen {
+    body {
+        text-align: center;
+        background-color: rgb(3, 3, 36);
+        color: rgb(175, 160, 159);
+    }
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+    header {
+        background-color: rgb(22, 32, 41);
+        border-right: 3cap;
+    }
+    .crass {
+        border: 10px;
+        border-style: groove;
+        border-radius: 3cap;
+        background-color: rgb(34, 5, 34);
+    }
+}

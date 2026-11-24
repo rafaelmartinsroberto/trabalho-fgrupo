@@ -1,0 +1,24 @@
+@media screen {
+    body {
+        text-align: center;
+        background-image: url(fundo_hush.png);
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-attachment: fixed;
+        color: rgb(161, 161, 161);
+    }
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+    header {
+        background-color: rgb(21, 63, 201);
+        border-right: 3cap;
+    }
+    .crass {
+        border: 10px;
+        border-style: groove;
+        border-radius: 3cap;
+        background-color: rgb(17, 16, 68);
+    }
+}
